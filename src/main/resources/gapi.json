@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "halogen-country-236717",
+  "private_key_id": "6ee37a2a75678512c0e5b461fcc9f52eb5d61f70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQzK8uSlwFG5vQ\nbted25Yi9K9J3PLxCCQ1Th7VD7AKkCwenkiZHkmyUoljPLA444PRQskR/ihw6UAs\njXoJ4c0E05wWI9hpWmGpB72Mli1HFFIao9RER9grsaREwp7nQFtqiszpD7xbZy5J\nlJBYsJjnpuXuu/b8Jh4ZtetdnOuOhMOlUff9tH7I7gPAirKgnPKM8fzd19JnMUqP\nZUCX7V2QvHvZE87dHf7xX6Y2xZuSXAhOGkT6vzb4hDW3SsAiw4daXmr2g4YSbC4I\nlznMICoylcHHDfA12pwo2rT+RXnPSrhg29JRxCgfRtL7JA8xh61kHQ+gdE+SBPLY\nzx90PwqzAgMBAAECggEAJ5Atiz3Y/7JH8/7dHe4aCwoE/O8IWBAr6H6kUP280V4M\nF/+SgXezliwUCs/RrHGJmjsfujFR9mvc02+CeUG/ZUK2QpxfrIV76pXJVijQTTwB\npPK/dDqXF3Utl3X/udqtP6KWE1Xv1p+OF5+mgv0Zgi3pZD3qYYG+trKskQLnn6RA\nmfXz5GuyXofM/5UED7kkSXzP4tmlfsh/Q5qOBRn9TZABVSUEDwCik7ppLATBkDwY\nkkTiYrGHyHq2nmhmVpy166R+mBYcfPMHI7fbtrx44fkjkxg+3j6Xz9hGIdNP2jFW\nfviB/Cq/sM3eczzjt7frbkY0wb3cFNkGK7WfZTFI5QKBgQDF+SKGvEJjchxRLdPe\nTPfOE8BeY/ZO+UCMzAQb8kORaS7nUeeAO4Q8oF8aEx7j3HmIghAscaYrPhOim96c\nkjzfu+fBKDANe9jKmUtmlCBNgv15SfjA40aKN9itJKY051ISO90Y2ASf+XRTLMoG\nlH9CXM6Qy897/+o4YQ/quXwHLQKBgQC7Pa4MCdEcJMWYXLdVulrzYnQvbtfzhaTi\nKR2nouzkajaQ7ijzpBmIYcH+nLqsoX7l+6s3CwovWQuEvpwAAk+etuIVbcHstA/f\nsGqtiCg9o2gjma95GYdhkuDvRA9uAFZApjw1CZ/o+E0o0UyPUgu9aMVc9LO51YZu\nQct/3DaFXwKBgBc97m2/AFRIe0aUiMEabCVHcFgkiDAxVwCwmvLk+EXEAXuqw/Ds\nC9RKR5/6CrBZm/MIwflVxlphSVDX18St7nOdzdGBdFLA7WyrnoyGa1xuOm/Y3VlX\n1Vo4wDljihe/6IS3fneCNNjLInr5USaAnIgf+ShKpSs7mjXQP1whNoxpAoGBAKRF\n9x9EtZu1f06veYHTH9yMslazLu/OftyVKhlbTe8QaJM6/97SSDxpWCQkKXsvrP/l\nj0+ZdfQYcYyjFobDgEtFNJGMXClpyMt+IfnhjTyW0tT5DwR2K1ql3IbO9aKS1Rmf\nPw9hRFTHFBsNldfgKcCh3RYy8kPGXEz7mKiy8XqNAoGABiUacZc7GwYCKwBTGIv4\nf6wslgaKr9J/EduOO98hDlw58M51jwdgbbPSdBhE01RqsRlD8fl+kEDwsPX0rjve\neFGVH2qkOzGUzb5vG+oBMeu3zwl7k/imLZiy2sPAmpbjypNHTlnz3GLgIIVDDsUC\nzOGmRAFmTfpz3S+DLtv/VZc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "softeng@halogen-country-236717.iam.gserviceaccount.com",
+  "client_id": "117217221463908654611",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/softeng%40halogen-country-236717.iam.gserviceaccount.com"
+}
